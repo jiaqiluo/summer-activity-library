@@ -12,7 +12,7 @@ You will be working with the following information concerning local Oregon activ
 5. Does the activity require gear? (e.g., walking doesn’t, wind surfing absolutely does!)
 6. You may add other information that is interesting for you.
 
-#Data Structures: 
+##Data Structures: 
 
 Write a C++ program that implements and uses a **table abstract data type using a hash table (with chaining)** to load from a file, retrieve, display, and remove (a section) information about activities. We would like to search by (a) Location. Extra credit will be given for people who also build a hash table for searching for a specific activity (by name).
 
