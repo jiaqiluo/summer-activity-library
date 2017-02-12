@@ -1,5 +1,5 @@
-##Programming
-###Problem Statement:
+#Programming
+##Problem Statement:
 
 It is time to start planning for Summer break. Have you decided what you are going to do? Are you going to work, take classes, or both? Do you intend to take advantage of the great weather we can have in the summer and all of the local activities? We are well known for our hiking trails and being bicycle friendly. Or do you water ski, wind surf or scuba dive? It can be all very overwhelming and within a blink of the eye, summer will be gone. Therefore, you have decided to write a program to help organize what great offerings Oregon has available so that when the weather is good you can do a quick search to find out what is available close by on short notice. This application is well suited for hashing, because I am not concerned about getting a sorted list. Instead, I want to quickly determine what activities are available *without the need for a sequential search*!
 
@@ -12,7 +12,7 @@ You will be working with the following information concerning local Oregon activ
 5. Does the activity require gear? (e.g., walking doesn’t, wind surfing absolutely does!)
 6. You may add other information that is interesting for you.
 
-##Data Structures: 
+#Data Structures: 
 
 Write a C++ program that implements and uses a **table abstract data type using a hash table (with chaining)** to load from a file, retrieve, display, and remove (a section) information about activities. We would like to search by (a) Location. Extra credit will be given for people who also build a hash table for searching for a specific activity (by name).
 
